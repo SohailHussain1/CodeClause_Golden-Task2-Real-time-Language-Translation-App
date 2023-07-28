@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Real-Time Translator App</string>
+    <string name="select_language_prompt">Select Language</string>
+</resources>
